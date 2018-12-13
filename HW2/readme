@@ -1,0 +1,4 @@
+/all   	  :now chatroom online
+bye close :chatroom
+pm sb|something     :send something to sb
+sendto sb|filename   :send filename to sb
